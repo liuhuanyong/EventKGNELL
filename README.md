@@ -1,5 +1,5 @@
 # EventKGNELL
-EventKGNELL, event knowlege graph never end learning system, a event-centric knowledge base search system，实时事理逻辑知识库终身学习和事件为核心的知识库搜索项目。包括事件概念抽取、事件因果逻辑抽取、事件数据关联推荐与推理。
+事理图谱版Magi...EventKGNELL, event knowlege graph never end learning system, a event-centric knowledge base search system，实时事理逻辑知识库终身学习和事件为核心的知识库搜索项目。包括事件概念抽取、事件因果逻辑抽取、事件数据关联推荐与推理。
 
 
 # 一、 “学迹”项目的起源与愿景
