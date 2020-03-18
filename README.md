@@ -41,7 +41,7 @@ EventKGNELL, event knowlege graph never end learning system, a event-centric kno
 
 4、了解社会对该事件或关联概念的理解
 我们不断学习出该事件自身或者事件关联实体的描述信息，从中我们可以得到对该事件本身的印象。
-![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/event_concept.jpg)
+![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/econcept.jpg)
 
 
 5、看到知识学习过程中的实证来源过程
@@ -87,9 +87,9 @@ EventKGNELL, event knowlege graph never end learning system, a event-centric kno
 “学迹”还在不断成长，欢迎常回来看看。
 
 
-If any question about the project or me ,see https://liuhuanyong.github.io/
+If any question about the project or me ,see https://liuhuanyong.github.io/  
 
-如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：
-1、我的github项目介绍：https://liuhuanyong.github.io
-2、我的csdn博客：https://blog.csdn.net/lhy2014
-3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com
+如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：  
+1、我的github项目介绍：https://liuhuanyong.github.io  
+2、我的csdn博客：https://blog.csdn.net/lhy2014  
+3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
