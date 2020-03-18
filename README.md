@@ -34,32 +34,23 @@ EventKGNELL, event knowlege graph never end learning system, a event-centric kno
 ![image](hhttps://github.com/liuhuanyong/EventKGNELL/blob/master/image/hotevent.jpg)
 
 
-3、体验到知识的实时学习过程
-在“学迹”的首页底部，我们与后台的实时学习进行对接，动态地展示了这种学习过程。
-![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/learn_from.jpg)
-
-
-4、了解社会对该事件或关联概念的理解
+3、了解社会对该事件或关联概念的理解
 我们不断学习出该事件自身或者事件关联实体的描述信息，从中我们可以得到对该事件本身的印象。
 ![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/learn_concept.jpg)
 
 
-5、看到知识学习过程中的实证来源过程
-我们用连线的方式，为每条知识都提供可视化的学习实证，我们随机选取了几条结构化的知识放在页面的右侧。从线条的首末尾动态关联，可体验到其中的“取之有道”。
-![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/learn_concept.jpg)
-
-
+4、看到知识学习过程中的实证来源过程
 我们对每个结构化的知识都进行了可信度的表示，颜色的深浅以及结构化标签上的数值对其进行了清晰的区分。点开标签后出现的下拉信息框中，可以看到知识的生成者、知识的生成时间、生成知识的上下文，知识学习来源的评分。
 ![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/learn_cause.jpg)
 
 
-6、获取特定事件发生的前因后果
+5、获取特定事件发生的前因后果
 因果逻辑是事理逻辑中的一个重要组成部分，通过事件发生的前因后果，可以对事件的演化提供一定借鉴，通过对逻辑事件关联的聚合，可以看出不同可信度下特定事件发生的前因后果。
 ![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/cause.jpg)
 ![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/effect.jpg)
 
 
-7、查看特定事件关联的数据和经济产业
+6、查看特定事件关联的数据和经济产业
 我们将事件与产业链实时知识库进行关联，从以事件的关联逻辑进一步延伸至产业链的关联逻辑。
 ![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/chain.jpg)
 
@@ -86,7 +77,7 @@ EventKGNELL, event knowlege graph never end learning system, a event-centric kno
 
 “学迹”还在不断成长，欢迎常回来看看。
 
-
+# 四、 关于我们
 If any question about the project or me ,see https://liuhuanyong.github.io/  
 
 如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：  
