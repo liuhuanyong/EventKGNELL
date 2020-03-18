@@ -13,7 +13,6 @@ EventKGNELL, event knowlege graph never end learning system, a event-centric kno
 
 ![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/main.jpg)
 
-
 # 二、 “学迹”项目 的用法和探索
 我们避开了类型众多且不可控的“实体搜索”，选择了更为聚焦的“事件搜索”。我们约定，一个事件应该包括具体的施事主体和关联动作，如“人民币贬值”、“美联储降息”，对应其中的实体信息，我们将以“概念描述”的方式对其实体进行解释展示。
 
@@ -76,6 +75,9 @@ EventKGNELL, event knowlege graph never end learning system, a event-centric kno
 “让事理知识学得更快、学得更多、学得更好，并为更多人传递事理知识和知识学习技术”，是“学迹”下一步要前进的方向。
 
 “学迹”还在不断成长，欢迎常回来看看。
+关于这个项目，大家可以加入到这个群中，一同讨论其中的技术问题：
+
+![image](https://github.com/liuhuanyong/EventKGNELL/blob/master/image/wechat.jpg)
 
 # 四、 关于我们
 If any question about the project or me ,see https://liuhuanyong.github.io/  
